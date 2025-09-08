@@ -1,2 +1,7 @@
+# .gitignore
 
-*.out
+# Executables
+parser_app
+
+# Object files
+*.o

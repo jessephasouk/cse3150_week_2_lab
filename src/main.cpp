@@ -1,5 +1,6 @@
 #include <iostream>
 #include "parser.h"
+#include <string>
 
 using std::cout, std::cin, std::string, std::endl;
 
